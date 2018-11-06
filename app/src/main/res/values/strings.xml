@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="my_custom_account">com.zaur</string>
+</resources>
